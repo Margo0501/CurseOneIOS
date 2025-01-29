@@ -7,5 +7,9 @@
 
 import Foundation
 
-print("Hello, World!")
+
+
+let name: String = "Margo"
+let sum = 2 + 3
+print(name, sum)
 

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "img3.akspic.ru-luna-ekoregion-okruzhayushchaya_sreda-prirodnyj_landshaft-peyzash-3159x5616.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

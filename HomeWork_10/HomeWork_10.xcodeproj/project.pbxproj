@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		45EDD9492D908827000E5389 /* MyLesson8.StoryBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyLesson8.StoryBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		45CD1BF02DD1586A00492E8F /* HomeWork_10.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeWork_10.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		45EDD95B2D908828000E5389 /* Exceptions for "MyLesson8.StoryBoard" folder in "MyLesson8.StoryBoard" target */ = {
+		45CD1C022DD1586C00492E8F /* Exceptions for "HomeWork_10" folder in "HomeWork_10" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 45EDD9482D908827000E5389 /* MyLesson8.StoryBoard */;
+			target = 45CD1BEF2DD1586A00492E8F /* HomeWork_10 */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		45EDD94B2D908827000E5389 /* MyLesson8.StoryBoard */ = {
+		45CD1BF22DD1586A00492E8F /* HomeWork_10 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				45EDD95B2D908828000E5389 /* Exceptions for "MyLesson8.StoryBoard" folder in "MyLesson8.StoryBoard" target */,
+				45CD1C022DD1586C00492E8F /* Exceptions for "HomeWork_10" folder in "HomeWork_10" target */,
 			);
-			path = MyLesson8.StoryBoard;
+			path = HomeWork_10;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		45EDD9462D908827000E5389 /* Frameworks */ = {
+		45CD1BED2DD1586A00492E8F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		45EDD9402D908827000E5389 = {
+		45CD1BE72DD1586A00492E8F = {
 			isa = PBXGroup;
 			children = (
-				45EDD94B2D908827000E5389 /* MyLesson8.StoryBoard */,
-				45EDD94A2D908827000E5389 /* Products */,
+				45CD1BF22DD1586A00492E8F /* HomeWork_10 */,
+				45CD1BF12DD1586A00492E8F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		45EDD94A2D908827000E5389 /* Products */ = {
+		45CD1BF12DD1586A00492E8F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				45EDD9492D908827000E5389 /* MyLesson8.StoryBoard.app */,
+				45CD1BF02DD1586A00492E8F /* HomeWork_10.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		45EDD9482D908827000E5389 /* MyLesson8.StoryBoard */ = {
+		45CD1BEF2DD1586A00492E8F /* HomeWork_10 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 45EDD95C2D908828000E5389 /* Build configuration list for PBXNativeTarget "MyLesson8.StoryBoard" */;
+			buildConfigurationList = 45CD1C032DD1586C00492E8F /* Build configuration list for PBXNativeTarget "HomeWork_10" */;
 			buildPhases = (
-				45EDD9452D908827000E5389 /* Sources */,
-				45EDD9462D908827000E5389 /* Frameworks */,
-				45EDD9472D908827000E5389 /* Resources */,
+				45CD1BEC2DD1586A00492E8F /* Sources */,
+				45CD1BED2DD1586A00492E8F /* Frameworks */,
+				45CD1BEE2DD1586A00492E8F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				45EDD94B2D908827000E5389 /* MyLesson8.StoryBoard */,
+				45CD1BF22DD1586A00492E8F /* HomeWork_10 */,
 			);
-			name = MyLesson8.StoryBoard;
+			name = HomeWork_10;
 			packageProductDependencies = (
 			);
-			productName = MyLesson8.StoryBoard;
-			productReference = 45EDD9492D908827000E5389 /* MyLesson8.StoryBoard.app */;
+			productName = HomeWork_10;
+			productReference = 45CD1BF02DD1586A00492E8F /* HomeWork_10.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		45EDD9412D908827000E5389 /* Project object */ = {
+		45CD1BE82DD1586A00492E8F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					45EDD9482D908827000E5389 = {
+					45CD1BEF2DD1586A00492E8F = {
 						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
-			buildConfigurationList = 45EDD9442D908827000E5389 /* Build configuration list for PBXProject "MyLesson8.StoryBoard" */;
+			buildConfigurationList = 45CD1BEB2DD1586A00492E8F /* Build configuration list for PBXProject "HomeWork_10" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 45EDD9402D908827000E5389;
+			mainGroup = 45CD1BE72DD1586A00492E8F;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 45EDD94A2D908827000E5389 /* Products */;
+			productRefGroup = 45CD1BF12DD1586A00492E8F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				45EDD9482D908827000E5389 /* MyLesson8.StoryBoard */,
+				45CD1BEF2DD1586A00492E8F /* HomeWork_10 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		45EDD9472D908827000E5389 /* Resources */ = {
+		45CD1BEE2DD1586A00492E8F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		45EDD9452D908827000E5389 /* Sources */ = {
+		45CD1BEC2DD1586A00492E8F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		45EDD95D2D908828000E5389 /* Debug */ = {
+		45CD1C042DD1586C00492E8F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -147,10 +147,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 27GZV368M4;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MyLesson8.StoryBoard/Info.plist;
+				INFOPLIST_FILE = HomeWork_10/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -158,7 +157,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "by.kuratnik.MyLesson8-StoryBoard";
+				PRODUCT_BUNDLE_IDENTIFIER = "by.kuratnik.HomeWork-10";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -166,7 +165,7 @@
 			};
 			name = Debug;
 		};
-		45EDD95E2D908828000E5389 /* Release */ = {
+		45CD1C052DD1586C00492E8F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -175,10 +174,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 27GZV368M4;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MyLesson8.StoryBoard/Info.plist;
+				INFOPLIST_FILE = HomeWork_10/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -186,7 +184,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "by.kuratnik.MyLesson8-StoryBoard";
+				PRODUCT_BUNDLE_IDENTIFIER = "by.kuratnik.HomeWork-10";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -194,7 +192,7 @@
 			};
 			name = Release;
 		};
-		45EDD95F2D908828000E5389 /* Debug */ = {
+		45CD1C062DD1586C00492E8F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -257,7 +255,7 @@
 			};
 			name = Debug;
 		};
-		45EDD9602D908828000E5389 /* Release */ = {
+		45CD1C072DD1586C00492E8F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -316,25 +314,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		45EDD9442D908827000E5389 /* Build configuration list for PBXProject "MyLesson8.StoryBoard" */ = {
+		45CD1BEB2DD1586A00492E8F /* Build configuration list for PBXProject "HomeWork_10" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				45EDD95F2D908828000E5389 /* Debug */,
-				45EDD9602D908828000E5389 /* Release */,
+				45CD1C062DD1586C00492E8F /* Debug */,
+				45CD1C072DD1586C00492E8F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		45EDD95C2D908828000E5389 /* Build configuration list for PBXNativeTarget "MyLesson8.StoryBoard" */ = {
+		45CD1C032DD1586C00492E8F /* Build configuration list for PBXNativeTarget "HomeWork_10" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				45EDD95D2D908828000E5389 /* Debug */,
-				45EDD95E2D908828000E5389 /* Release */,
+				45CD1C042DD1586C00492E8F /* Debug */,
+				45CD1C052DD1586C00492E8F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 45EDD9412D908827000E5389 /* Project object */;
+	rootObject = 45CD1BE82DD1586A00492E8F /* Project object */;
 }

@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  MyLesson8.StoryBoard
+//  HomeWork_10
 //
-//  Created by Маргарита Куратник on 23.03.25.
+//  Created by Маргарита Куратник on 12.05.25.
 //
 
 import UIKit
